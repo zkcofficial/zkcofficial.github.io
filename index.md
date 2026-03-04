@@ -43,6 +43,7 @@ body {
   <a href="#jlife">Jewish Life</a>
   <a href="#contact">Ethnographics</a>
   <a href="#contact">Scouts</a>
+  <a href="#contact">Art</a>
   <a href="#about" class="split">About</a>
 </div>
 
