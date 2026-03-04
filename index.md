@@ -36,12 +36,12 @@ body {
 </head>
 <body>
 
-# Zephyr - Yehoshuah
+
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#jlife">Jewish Life</a>
-  <a href="#contact">Ethnographics</a>
+  <a href="#contact">Ethnographic Interests</a>
   <a href="#contact">Scouts</a>
   <a href="#contact">Art</a>
   <a href="#about" class="split">About</a>
