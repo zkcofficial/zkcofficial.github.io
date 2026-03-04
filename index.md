@@ -32,6 +32,9 @@ body {
   background-color: grey;
   color: white;
 }
+.video1 {
+text-align: center;
+}
 </style>
 </head>
 <body>
@@ -47,8 +50,9 @@ body {
   <a href="#about" class="split">About</a>
 </div>
 
-
-<iframe style="text-align: center;" width="560" height="315" src="https://www.youtube.com/embed/Idpy4BDJSRc?si=kExMDnfeycT-mH8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Idpy4BDJSRc?si=kExMDnfeycT-mH8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 </body>
