@@ -42,7 +42,7 @@ text-align: center;
 
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a class="active" href="https://zkcofficial.github.io/">Home</a>
   <a href="#jlife">Jewish Life</a>
   <a href="#contact">Ethnographic-Interests</a>
   <a href="#contact">Scouts</a>
