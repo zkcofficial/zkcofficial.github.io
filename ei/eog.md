@@ -35,6 +35,7 @@ These princes were: We'e, firstborn of king We, and U'we, thirdborn of king We. 
 The second born of king We, prince Im'ea, recieved the city of 'Seae' as his inheritance for his bravery in battle. The prince
 Seae'e, firstborn of king Seae, was killed in battle along with his father. Prince Eiseae, second born of king Seae, founded the city 
 'Eiseae', which he took took as his portion. And prince Um'e, only child of king Um, inherited the city of 'Um' as his inheritance. 
+![attachment (32)](https://github.com/user-attachments/assets/4204728d-b788-4e99-8ff5-542f4a72e748)
 
 
 
