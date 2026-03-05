@@ -4,6 +4,6 @@ This is where I post my various Ethnographic interests - Games, stories/lore, ph
 <hr>
 <ul>
   
-  <li><a href="eog.html">EO: G</li>
+  <li><a href="eog.html">EO: G</a></li>
     
 </ul>
