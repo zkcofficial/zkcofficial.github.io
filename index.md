@@ -43,7 +43,7 @@ text-align: center;
 
 <div class="topnav">
   <a class="active" href="https://zkcofficial.github.io/">Home</a>
-  <a href="#jlife">Jewish Life</a>
+  <a href="chabad.org">Jewish Life</a>
   <a href="zkcofficial/ei/ethnographicinterests.html">Ethnographic-Interests</a>
   <a href="#contact">Scouts</a>
   <a href="#contact">Art</a>
