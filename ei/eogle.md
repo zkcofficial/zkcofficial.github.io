@@ -101,7 +101,26 @@ Something to keep in mind is that places are named after people and things, and 
 To illistrate this pount, in the real world there was, according to Greek myth a king named Tros. He founded the city of Troy, which the Greeks besieged, famously as a last ditch effort creating the Trojan horse. This kind of attack style became famous and now refers to a kind of cyber attack called a Trojan horse. Think about that, because of some king thousands of years ago, 
 we describe a type of cyber attack as a Trojan horse. That kind of lore is what I am going to accompish here.
 
+<hr>
 
+Lets start with the first three kings. First, there's the king "We". We already went through his name's etemology, but to recap it means 'Much/very big man'. <br>
+He had a son, named "We'e". This literally means 'We two', or 'We the second'. His second son he named "U'We" meaning 
+'Later We' or 'We that was born later'. His third son he named "Im'ea", meaning 'Small human, who is male', basically meaning 'Worthless/unimportant man'. <br>
+The king We also founded the city "Mwa'We" or literally 'City/kingdom/domain of We', or if you want to get even more granular: 'Human action on the land of We'. <br>
+(insert tab)
+
+<hr>
+
+Second is king "Um". His name means generally 'Big man' (This meaning may seem simular "We", but "We" also means 'Action man' or 'Man of action', wheras "Um" does not have that context). King "Um" had a son, "Um'e", meaning 'Um the second'. King Um also founded the city of "Mwa'Um" meaning "City of Um". <br>
+(insert tab)
+
+<hr>
+
+Third is king "Seae", meaning 'Unnaturally large for people'. He had a son named "Seae'e" meaning 'Seae the second'. He
+then had another son who he named "Eiseae" meaning 'Small seae'. King Seae also founded the city of "Mwa'Seae", meaning 'City of Seae'. <br>
+(insert tab)
+
+<hr>
 
 
 
