@@ -65,9 +65,7 @@ body {font-family: "Lato", sans-serif;}
 <div id="London" class="tabcontent">
   <h3>King We'e</h3>
   <p> 
-    
-  ![attachment (33)](https://github.com/user-attachments/assets/1cab8600-f3ff-417c-97f6-4a16dca44dab)
- 
+    <img src="https://github.com/user-attachments/assets/1cab8600-f3ff-417c-97f6-4a16dca44dab">
  </p>
 </div>
 
