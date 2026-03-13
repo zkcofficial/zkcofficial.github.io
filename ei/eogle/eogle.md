@@ -1,3 +1,6 @@
+# Ethnographic Odessy: Genesis Language Edition 
+
+
 
 <style>
 table {
@@ -18,7 +21,6 @@ tr:nth-child(even) {
 </style>
 
 
-# Ethnographic Odessy: Genesis Language Edition 
 
 <hr>
 
