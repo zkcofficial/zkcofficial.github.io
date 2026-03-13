@@ -58,6 +58,27 @@ body {
 #myMenu li a:hover {
   background-color: #eee;
 }
+    
+  .main {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+   
+  .div1 {
+    height: 321px;
+    text-align: center;
+    width: 301px;
+    background-color: grey;
+    border-style: solid;
+    border-color: lightgrey;
+    }
+    .imag {
+    height: 301px;
+    text-align: center;
+    width: 301px;
+    background-color: black;
+    }
 </style>
 
 <div class="row">
@@ -103,3 +124,31 @@ function myFunction() {
   }
 }
 </script>
+
+<hr>
+
+<div class="main">
+<div class="div1">
+<div class="imag"></div>
+Hilo world
+</div>
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
