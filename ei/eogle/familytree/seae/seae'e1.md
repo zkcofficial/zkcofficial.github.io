@@ -1,6 +1,6 @@
 # FamilyTree
 
-### King Seae'e
+### Prince Seae'e
 
 <i>Portrait not available</i>
 
