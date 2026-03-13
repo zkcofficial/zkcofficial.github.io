@@ -66,7 +66,7 @@ body {
   }
    
   .div1 {
-    height: 321px;
+    height: 331px;
     text-align: center;
     width: 301px;
     background-color: grey;
