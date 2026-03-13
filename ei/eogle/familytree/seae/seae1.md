@@ -7,5 +7,5 @@
 <hr>
 
 Children:<br>
-<a href="">Seae'e</a> <br>
-<a href="">Eiseae</a>
+<a href="seae'e1.html">Seae'e</a> <br>
+<a href="eiseae1.html">Eiseae</a>
