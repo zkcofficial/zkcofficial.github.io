@@ -1,7 +1,7 @@
-# Ethnographic Odessey: Genesis
+# Ethnographic Odessey: Genesis 1
 <hr>
 
-### This game is called EO: Genesis because this is the first book in the story of Ethnographic Odessey, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
+### This game is called EO: Genesis 1 because this is the first book in the story of Ethnographic Odessey, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
 
 
 <hr>
