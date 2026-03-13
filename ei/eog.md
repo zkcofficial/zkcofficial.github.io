@@ -9,6 +9,7 @@
 
 Part 1: The world is formed<br>
 This is the earth, Called in the language 'Ay'<br>
+Earth:
 
 ![attachment (30)](https://github.com/user-attachments/assets/532a8178-d951-40d2-9c77-18a7f49a256f)
 
