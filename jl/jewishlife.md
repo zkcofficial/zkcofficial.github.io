@@ -1,4 +1,4 @@
-# Jewish Life
+<h1>Jewish Life</h1>
 
 
 <hr>
@@ -54,7 +54,7 @@
     <script>
         // Sample data that users can search through
         const sampleData = [
-            "Apple",
+            "<a href="">Applesauce</a>",
             "Banana",
             "Cherry",
             "Date",
