@@ -1,4 +1,4 @@
-# Jewish Lifee
+# Jewish Lifeee
 
 
 <hr>
@@ -54,7 +54,7 @@
     <script>
         // Sample data that users can search through
         const sampleData = [
-            "<a href="">Applesauce</a>",
+            "no",
             "Banana",
             "Cherry",
             "Date",
