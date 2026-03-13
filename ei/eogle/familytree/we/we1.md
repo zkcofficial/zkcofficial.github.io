@@ -2,7 +2,7 @@
 
 ### King We
 
-<img src="https://github.com/user-attachments/assets/e346dcf5-a0ab-4649-a2cd-70b98db90fc9" height="150px" width="100px">
+![image](https://github.com/user-attachments/assets/e346dcf5-a0ab-4649-a2cd-70b98db90fc9)
 
 <hr>
 Children:<br>
