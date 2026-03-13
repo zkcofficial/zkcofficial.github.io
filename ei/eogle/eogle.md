@@ -110,8 +110,8 @@ we describe a type of cyber attack as a Trojan horse. That kind of lore is what 
 <ul>
 
 <li><a href="familytree/seae/seae1.html">Seae</a></li>
-<li><a href="/familytree/um1.html">Um</a></li>
-<li><a href="/familytree/we/we1.html">We</a></li>
+<li><a href="familytree/um/um1.html">Um</a></li>
+<li><a href="familytree/we/we1.html">We</a></li>
   
 </ul>
 
