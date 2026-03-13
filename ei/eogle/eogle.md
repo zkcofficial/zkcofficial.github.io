@@ -103,6 +103,18 @@ we describe a type of cyber attack as a Trojan horse. That kind of lore is what 
 
 <hr>
 
+### Family dynasties
+
+<ul>
+
+<li><a href="familytree/seae/seae1.html">Seae</a></li>
+<li><a href=/familytree/um1.html">Um</a></li>
+<li><a href="/familytree/we/we1.html">We</a></li>
+  
+</ul>
+
+<hr>
+
 Lets start with the first three kings. First, there's the king "We". We already went through his name's etemology, but to recap it means 'Much/very big man'. <br>
 He had a son, named "We'e". This literally means 'We two', or 'We the second'. His second son he named "U'We" meaning 
 'Later We' or 'We that was born later'. His third son he named "Im'ea", meaning 'Small human, who is male', basically meaning 'Worthless/unimportant man'. <br>
