@@ -1,7 +1,8 @@
 # FamilyTree
 
 ### King We
-![attachment (34)](https://github.com/user-attachments/assets/e346dcf5-a0ab-4649-a2cd-70b98db90fc9)
+
+<img src="https://github.com/user-attachments/assets/e346dcf5-a0ab-4649-a2cd-70b98db90fc9" height="150px" width="100px">
 
 <hr>
 Children:<br>
