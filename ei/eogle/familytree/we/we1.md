@@ -6,8 +6,8 @@
 
 <hr>
 Children:<br>
-<a href="">We'e</a><br>
-<a href="">U'We</a><br>
-<a href="">Im'ea</a>
+<a href="we'e1.html">We'e</a><br>
+<a href="u'we1.html">U'We</a><br>
+<a href="im'ea1.html">Im'ea</a>
 <hr>
 
