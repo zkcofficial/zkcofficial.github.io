@@ -30,7 +30,7 @@ tr:nth-child(even) {
 
 First off, the language.<br>
 This is a compound language, meaning that words can stack to create new meaning. <br>
-The general concept in this language is when referring to an object or concept, you compound the words to make this language.<br>
+The general concept in this language is when referring to an object or concept, you compound the words to make words in this language.<br>
 Lets take an imaginary example: If you want to say 'A man is running' you would say every word, so you would say "(A) Man is running". But if you wanted to refer to the concept of a man running in general, you would say, according to the ruled of the language, "(A)Manisrunning".<br>
 In this example of the structure of the language, to refer to a concept, regardless of how complex or specific it is, you use the compound form. If not, and you are refering to an acive action, you say/pronounce the words spaced out/individually.<br>
 
