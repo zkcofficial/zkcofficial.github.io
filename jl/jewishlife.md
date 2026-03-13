@@ -68,10 +68,11 @@ body {
   .div1 {
     height: 331px;
     text-align: center;
-    width: 301px;
+    width: 307px;
     background-color: grey;
     border-style: solid;
     border-color: lightgrey;
+    color: black;
     }
     .imag {
     height: 301px;
@@ -132,7 +133,8 @@ function myFunction() {
 <div class="imag"></div>
 Hilo world
 </div>
-<div>
+</div>
+
 
 
 
