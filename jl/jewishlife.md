@@ -133,11 +133,17 @@ function myFunction() {
 <div class="imag"></div>
 Hilo world
 </div>
+</div><br>
+
+<div class="main">
+<div class="div1">
+<img width="301" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/user-attachments/assets/7cee8ccb-63de-4b33-a9cf-3561f8a8e55d" /><br>
+Hilo world
 </div>
+</div><br>
 
 
-
-
+<img width="301" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/user-attachments/assets/7cee8ccb-63de-4b33-a9cf-3561f8a8e55d" />
 
 
 
