@@ -74,7 +74,9 @@ body {
     border-color: lightgrey;
     color: black;
     }
-
+.arcolor {
+background-color: grey;
+}
 </style>
 
 <div class="row">
@@ -126,11 +128,12 @@ function myFunction() {
 <div class="main">
 <div class="div1">
 <img width="401" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/user-attachments/assets/54e1a9ad-4a41-4ffc-a146-a0e06b30a50b" /><br>
+<div class="arcolor">
 Hilo world
+</div>
 </div>
 </div><br>
 
-![attachment (41)](https://github.com/user-attachments/assets/54e1a9ad-4a41-4ffc-a146-a0e06b30a50b)
 
 
 
