@@ -1,4 +1,4 @@
-# Ethnographic interestss
+# Ethnographic interests
 
 <style>
   .topnav {
