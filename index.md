@@ -52,6 +52,13 @@ text-align: center;
 
 <hr>
 
+## News
+<ul>
+  <li>[Tefillin Mishaps and the Inaguaral blog post!](/jl/articles/03132026wl.html)</li>
+</ul>
+
+<hr>
+
 <div class="video1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Idpy4BDJSRc?si=kExMDnfeycT-mH8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
