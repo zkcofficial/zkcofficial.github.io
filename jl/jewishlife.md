@@ -66,20 +66,15 @@ body {
   }
    
   .div1 {
-    height: 331px;
+    height: 341px;
     text-align: center;
-    width: 307px;
+    width: 507px;
     background-color: grey;
     border-style: solid;
     border-color: lightgrey;
     color: black;
     }
-    .imag {
-    height: 301px;
-    text-align: center;
-    width: 301px;
-    background-color: black;
-    }
+
 </style>
 
 <div class="row">
@@ -127,13 +122,6 @@ function myFunction() {
 </script>
 
 <hr>
-
-<div class="main">
-<div class="div1">
-<div class="imag"></div>
-Hilo world
-</div>
-</div><br>
 
 <div class="main">
 <div class="div1">
