@@ -1,4 +1,4 @@
-# Ethnographic interests
+# Ethnographic interestss
 
 <style>
   .topnav {
@@ -32,7 +32,7 @@
 
 <div class="topnav">
   <a class="active" href="https://zkcofficial.github.io/">Home</a>
-  <a href="jl/jewishlife.html">Jewish Life</a>
+  <a href="/jl/jewishlife.html">Jewish Life</a>
   <a href="ei/ethnographicinterests.html">Ethnographic_Interests</a>
   <a href="#contact">S(not done)</a>
   <a href="#contact">A(not done)</a>
