@@ -2,6 +2,8 @@
 
 <hr>
 
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
@@ -93,8 +95,42 @@ a:active {
   text-decoration: none;
 }
 
- 
+
+ .topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create a right-aligned (split) link inside the navigation bar */
+.topnav a.split {
+  float: right;
+  background-color: grey;
+  color: white;
+}
 </style>
+
+<div class="topnav">
+  <a class="active" href="https://zkcofficial.github.io/">Home</a>
+  <a href="jl/jewishlife.html">Jewish Life</a>
+  <a href="ei/ethnographicinterests.html">Ethnographic_Interests</a>
+  <a href="#contact">S(not done)</a>
+  <a href="#contact">A(not done)</a>
+  <a href="#about" class="split">About(not done)</a>
+</div>
 
 <div class="row">
   <div class="left" style="background-color:#bbb;">
