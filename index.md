@@ -52,6 +52,12 @@ text-align: center;
 
 <hr>
 
+<div class="video1">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Idpy4BDJSRc?si=kExMDnfeycT-mH8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<hr>
+
 <h2>News</h2>
 
 <ul>
@@ -60,10 +66,14 @@ text-align: center;
 
 <hr>
 
-<div class="video1">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Idpy4BDJSRc?si=kExMDnfeycT-mH8i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<h2>About</h2>
 
+This Website is about my life - Things that interest me. <br>
+I really enjoy several topics, like Ethnographics, History, Art and Judaism as a whole. <br>
+If you enjoy these things to, or if you just wanna know whats going on with me - pls follow along! <br>
+Aaaaaand if not, of course, you dont have to keep watching <br>
+All that to say, this is ZkcOfficial, enjoy!
+- Zephyr
 
 </body>
 </html>
