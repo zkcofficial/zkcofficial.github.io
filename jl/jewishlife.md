@@ -105,16 +105,14 @@ color: black;
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
     <ul id="myMenu">
-      <li><a href="/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
+      <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
     </ul>
   </div>
   
   <div class="right" style="background-color:#ddd;">
     <h2>Page Content</h2>
-    <p>Start to type for a specific category inside the search bar to "filter" the search options.</p>
-    <p>Some text..Some text..Some text..Some text..Some text..Some text..Some text..Some text..</p>
-    <p>Some other text..Some text..Some text..Some text..Some text..Some text..Some text..Some text..</p>
-    <p>Some text..</p>
+    <p>Start to type for a specific category inside the search bar to filter the search options.</p>
+    
   </div>
 </div>
 
