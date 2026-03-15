@@ -105,15 +105,7 @@ color: black;
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
     <ul id="myMenu">
-      <li><a href="#">HTML</a></li>
-      <li><a href="#">CSS</a></li>
-      <li><a href="#">JavaScript</a></li>
-      <li><a href="#">PHP</a></li>
-      <li><a href="#">Python</a></li>
-      <li><a href="#">jQuery</a></li>
-      <li><a href="#">SQL</a></li>
-      <li><a href="#">Bootstrap</a></li>
-      <li><a href="#">Node.js</a></li>
+      <li><a href="/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
     </ul>
   </div>
   
@@ -150,7 +142,7 @@ function myFunction() {
 <div class="main1">
 <div class="div1">
 <img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/zkcofficial/zkcofficial.github.io/blob/main/jl/imagedump/attachment%20(41).jpeg?raw=true" /><br>
-<a href="https://google.com">Hilo world i like to shakeit shake it, i like to... SHAKE IT! i like to ove it move it, i like to move it.</a>
+<a href="https://google.com">Weekly recap: 03/14/2026</a>
 </div>
 </div>
 <br>
