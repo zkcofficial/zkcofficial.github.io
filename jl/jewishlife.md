@@ -59,24 +59,45 @@ body {
   background-color: #eee;
 }
     
-  .main {
+  .main1 {
     display: flex;
   justify-content: center;
   align-items: center;
+    
   }
    
   .div1 {
     height: 341px;
     text-align: center;
-    width: 507px;
-    background-color: grey;
+    width: 407px;
+    background-color: white;
     border-style: solid;
     border-color: lightgrey;
     color: black;
+ 
     }
-.arcolor {
-background-color: grey;
+ .sad {
+ background-color: grey;
+ }
+  .sad {
+ background-color: grey;
+ }
+ a:link {
+  text-decoration: none;
 }
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+ 
 </style>
 
 <div class="row">
@@ -125,18 +146,17 @@ function myFunction() {
 
 <hr>
 
-<div class="main">
+<a href="#">
+<div class="main1">
 <div class="div1">
-<img width="401" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/user-attachments/assets/54e1a9ad-4a41-4ffc-a146-a0e06b30a50b" /><br>
-<div class="arcolor">
-Hilo world
+<img width="401" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/user-attachments/assets/7cee8ccb-63de-4b33-a9cf-3561f8a8e55d" /><br>
+<div class="sad">
+Hilo world i like to shakeit shake it, i like to... SHAKE IT! i like to ove it move it, i like to move it mive it, i like ro.
 </div>
 </div>
-</div><br>
-
-
-
-
+</div>
+</a>
+<br>
 
 
 
