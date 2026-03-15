@@ -70,11 +70,9 @@ body {
     height: 341px;
     text-align: center;
     width: 400px;
-    background-color: white;
+    background-color: lightgrey;
     border-style: solid;
     border-color: lightgrey;
-    color: black;
-    background-color: grey;
 
     }
 
@@ -94,9 +92,7 @@ a:hover {
 a:active {
   text-decoration: none;
 }
-a {
-color: black;
-}
+
  
 </style>
 
