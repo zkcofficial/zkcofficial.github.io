@@ -104,9 +104,10 @@ color: black;
   <div class="left" style="background-color:#bbb;">
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
-    <ul id="myMenu">
+  <ul id="myMenu">
       <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
-    </ul>
+   
+  </ul>
   </div>
   
   <div class="right" style="background-color:#ddd;">
@@ -140,7 +141,7 @@ function myFunction() {
 <div class="main1">
 <div class="div1">
 <img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://github.com/zkcofficial/zkcofficial.github.io/blob/main/jl/imagedump/attachment%20(41).jpeg?raw=true" /><br>
-<a href="https://google.com">Weekly recap: 03/14/2026</a>
+<a href="/jl/articles/03132026wl.html">Weekly recap: 03/14/2026</a>
 </div>
 </div>
 <br>
