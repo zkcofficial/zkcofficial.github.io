@@ -52,9 +52,10 @@ text-align: center;
 
 <hr>
 
-## News
+<h2>News</h2>
+
 <ul>
-  <li>[Tefillin Mishaps and the Inaguaral blog post!](/jl/articles/03132026wl.html)</li>
+  <li><a href="/jl/articles/03132026wl.html">Tefillin mishaps and the inaguaral blog post</a></li>
 </ul>
 
 <hr>
