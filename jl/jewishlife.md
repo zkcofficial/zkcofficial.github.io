@@ -97,6 +97,9 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+a {
+color: black;
+}
  
 </style>
 
