@@ -78,10 +78,10 @@ body {
     }
  .sad {
  background-color: grey;
+  border-style: solid;
+    border-color: lightgrey;
  }
-  .sad {
- background-color: grey;
- }
+
  a:link {
   text-decoration: none;
 }
