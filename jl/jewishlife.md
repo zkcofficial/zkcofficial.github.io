@@ -1,4 +1,4 @@
-# Jewish Lifee
+# Jewish Life
 
 <hr>
 
