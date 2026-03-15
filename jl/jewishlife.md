@@ -132,6 +132,8 @@ a:active {
   <a href="#about" class="split">About(not done)</a>
 </div>
 
+<hr>
+
 <div class="row">
   <div class="left" style="background-color:#bbb;">
     <h2>Menu</h2>
