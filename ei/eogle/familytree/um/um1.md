@@ -8,7 +8,7 @@
 
 <br>
 
-Lore: He founded the kingdom of 'Um', merging four tribes in the process. He is the founding father of the broader house of 'Um'
+Lore: He founded the kingdom of 'Um', merging four tribes in the process. He is the founding father of the broader house of 'Um' He died in the year 68 due to old age
 
 <br>
 
