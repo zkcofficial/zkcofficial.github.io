@@ -92,6 +92,16 @@ This language has ten base words - yes thats right, only ten words. That means a
     <td>10</td>
     <td>Non-human</td>
   </tr>
+     <tr>
+   <td>'</td>
+    <td>No Number</td>
+    <td>Is a gutteral stopper to indicate an addition concept</td>
+  </tr>
+   <tr>
+    <td>H</td>
+    <td>No Number</td>
+    <td>Is a version of ' used when names are compounded to stop confusion</td>
+  </tr>
 </table>
 <hr>
 
