@@ -8,7 +8,7 @@
 
 <br>
 
-Lore: He was the founder of the kingdom of 'Seae', doing so using the three tribes of the area. He is also the founing father of the broader house of Seae.
+Lore: He was the founder of the kingdom of 'Seae', doing so using the three tribes of the area. He is also the founing father of the broader house of Seae. He died in the year 70 due to old age.
 
 <br>
 
