@@ -12,4 +12,4 @@ Lore: King Im'ea is seen here with a raised crown in the style of the previous r
 
 Children: <br>
 [Imhea'e](imhea'e.md) <br>
-[(Adopted) Mimhea'We](iu'wehe.md)
+[(Adopted) Mimhea'We](iu'wehe1.md)
