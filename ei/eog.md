@@ -58,11 +58,8 @@ Prince Ee'Eiseae of Eiseae married Lady Ibm'Umhe of Ium, becoming Lord Ee'Eiseae
 The next was prince Imhea'e, who inherited the title of his father king Im'ea of Seae, becoming Imhea'e of Seae.<br>
 Prince Ea'Eiseae of Eiseae married Lady Mimhea'we of Eseae, becoming Lord Ea'Eiseae of Eseae.
 <br>
-The last was prince Ei'Eiseae third born son of king Eiseae of Eiseae. He inherited his father's role as king Ei'Eiseae of Eiseae. 
-
-
-
-
+The last was prince Ei'Eiseae third born son of king Eiseae of Eiseae. He inherited his father's role as king Ei'Eiseae of Eiseae. <br>
+The Map:<br>
 
 
 
