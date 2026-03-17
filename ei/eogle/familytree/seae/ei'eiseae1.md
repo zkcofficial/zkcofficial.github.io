@@ -1,6 +1,6 @@
 # FamilyTree
 
-### Lord Ei'Eiseae
+### King Ei'Eiseae
 
 <i>Portrait not available</i> <br>
 
