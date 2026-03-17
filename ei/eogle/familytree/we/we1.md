@@ -7,7 +7,7 @@
 <hr>
 
 <br>
-Lore: He was the founding father of the kingdom 'We', uniting three tribes to do so. He was the founder of the broader house of 'We'
+Lore: He was the founding father of the kingdom 'We', uniting three tribes to do so. He was the founder of the broader house of 'We' He died in the year 70 from old age.
 <br>
 
 Children:<br>
