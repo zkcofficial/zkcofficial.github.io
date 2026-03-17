@@ -6,6 +6,12 @@
 
 <hr>
 
+<br>
+
+Lore: He founded the kingdom of 'Um', merging four tribes in the process. He is the founding father of the broader house of 'Um'
+
+<br>
+
 Children:<br>
 <a href="um'e1.html">Um'e</a>
 
