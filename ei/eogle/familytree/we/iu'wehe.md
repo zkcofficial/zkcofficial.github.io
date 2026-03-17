@@ -1,6 +1,6 @@
 # FamilyTree
 
-### Iu'Wehe, also known as Lady Mimhea'we
+### Iu'Wehe, also known as Lady Mimhea'We
 
 <i>Portrait not available</i> <br>
 
