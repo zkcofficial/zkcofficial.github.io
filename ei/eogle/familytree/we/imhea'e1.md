@@ -1,6 +1,6 @@
 # FamilyTree
 
-### King Imhea'a
+### King Imhea'e
 
 <i>Portrait not available</i> <br>
 
