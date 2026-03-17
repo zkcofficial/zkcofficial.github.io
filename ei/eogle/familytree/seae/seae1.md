@@ -6,6 +6,12 @@
 
 <hr>
 
+<br>
+
+Lore: He was the founder of the kingdom of 'Seae', doing so using the three tribes of the area. He is also the founing father of the broader house of Seae.
+
+<br>
+
 Children:<br>
 <a href="seae'e1.html">Seae'e</a> <br>
 <a href="eiseae1.html">Eiseae</a>
