@@ -1,6 +1,6 @@
 # FamilyTree
 
-### Lady Ibm'Umhe
+### Dutchess Ibm'Umhe
 
 <i>Portrait not available</i> <br>
 
