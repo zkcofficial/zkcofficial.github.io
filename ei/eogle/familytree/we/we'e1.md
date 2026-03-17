@@ -7,4 +7,5 @@
 <hr>
 
 Children: <br>
-None
+[We'i](we'i1.md) <br>
+[Iu'Wehe](iu'wehe1.md)
