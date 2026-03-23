@@ -139,7 +139,8 @@ a:active {
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
   <ul id="myMenu">
-      <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
+          <li><a href="/jl/articles/03222026.html">Week of 02/22/2026</a></li>
+          <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
    
   </ul>
   </div>
