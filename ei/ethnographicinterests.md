@@ -1,6 +1,7 @@
 # Ethnographic interests
 
 <style>
+
   .topnav {
   overflow: hidden;
   background-color: #333;
