@@ -128,7 +128,7 @@ a:active {
   <a href="/jl/jewishlife.html">Jewish Life</a>
   <a href="/ei/ethnographicinterests.html">Ethnographic Interests</a>
   <a href="/ar/art.html">Art</a>
-  <a href="#about" class="split">About</a>
+  <a href="/#about" class="split">About</a>
 </div>
 
 <hr>
