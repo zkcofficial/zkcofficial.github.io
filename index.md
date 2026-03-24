@@ -76,6 +76,17 @@ Aaaaaand if not, of course, you dont have to keep watching <br>
 All that to say, this is ZkcOfficial, enjoy!
 - Zephyr
 
+<hr>
+
+Contact:<br>
+Facebook:<br>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7526e0f-7546-4363-b9ca-952d3a61f333" /><br>
+Instagram<br>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cf276393-b63b-49ac-9b3c-05f0b8867150" /><br>
+
+
+
+
 </body>
 </html>
 
