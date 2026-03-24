@@ -139,15 +139,16 @@ a:active {
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
   <ul id="myMenu">
+          <li><a href="   jl/articles/shemaprayer(english)1.html">Shema prayer (English)</a></li>
           <li><a href="/jl/articles/03222026.html">Week of 03/22/2026</a></li>
           <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
-   
+
   </ul>
   </div>
   
   <div class="right" style="background-color:#ddd;">
     <h2>Page Content</h2>
-    <p>Start to type for a specific category inside the search bar to filter the search options.</p>
+    <p>Start to type for a specific article you wish to view.</p>
     
   </div>
 </div>
