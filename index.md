@@ -61,6 +61,7 @@ text-align: center;
 <h2>News</h2>
 
 <ul>
+  <li><a href="jl/jewishlife.html">New Video: Shema prayer (English)</a></li>
   <li><a href="/jl/articles/03222026.html">Weekly Recap of 03/22/2026</a></li>
   <li><a href="/ei/eogle/eogle.html">Updated and continued lore for EO: G Language edition</a></li>
 </ul>
