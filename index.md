@@ -67,7 +67,7 @@ text-align: center;
 
 <hr>
 
-<h2>About</h2>
+<h2 id="about">About</h2>
 
 This Website is about my life - Things that interest me. <br>
 I really enjoy several topics, like Ethnographics, History, Art and Judaism as a whole. <br>
