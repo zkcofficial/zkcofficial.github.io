@@ -2,6 +2,16 @@
 
 <hr>
 
+<div class="topnav">
+  <a class="active" href="https://zkcofficial.github.io/">Home</a>
+  <a href="/jl/jewishlife.html">Jewish Life</a>
+  <a href="/ei/ethnographicinterests.html">Ethnographic Interests</a>
+  <a href="ar/art.html">Art</a>
+  <a href="#about" class="split">About(not done)</a>
+</div>
+
+<hr>
+
 This is where I post the art I've made; this encompasses several months and covers stretches of inspiration and just drawing to draw. <br>
 It goes bottem to top in age<br>
 Enjoy!
