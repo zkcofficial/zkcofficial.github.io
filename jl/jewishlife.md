@@ -138,11 +138,12 @@ a:active {
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
   <ul id="myMenu">
+          <li><a href="/jl/articles/tefillin1.html">Putting on Tefillin (English)</a></li>       
           <li><a href="/jl/articles/shemaprayer(english)1.html">Shema prayer (English)</a></li>
           <li><a href="/jl/articles/03222026.html">Week of 03/22/2026</a></li>
           <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
 
-  </ul>
+  </ul> 
   </div>
   
   <div class="right" style="background-color:#ddd;">
@@ -172,6 +173,12 @@ function myFunction() {
 
 
 <hr>
+
+
+<div class="main1">
+<iframe width="400" height="341" src="https://www.youtube.com/embed/mxS7aK00Nsg?si=sh-bpqOYipJuaJGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 <div class="main1">
 <iframe width="400" height="341" src="https://www.youtube.com/embed/ViFT59oESkU?si=Ld4b02mssDbtlbeL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
