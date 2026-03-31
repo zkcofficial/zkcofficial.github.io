@@ -176,7 +176,7 @@ function myFunction() {
 <div class="main1">
 <div class="div1">
 <img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/662563290_122289329918199570_5204720484525280287_n.jpg?stp=dst-jpg_p180x540_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=13d280&amp;_nc_ohc=yY1nLXqC9ugQ7kNvwEK9MrO&amp;_nc_oc=Adox2QK5E-WN2mtqkOdDF2WY3UoFv5kstSaOwAaxpbByzlIgOffQU7aOkGdFpeKbRfKwfX6tEVXJbSljlH5miOOu&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-2.xx&amp;_nc_gid=7geOfckgNhrNn3Pm4j8LvA&amp;_nc_ss=7a3a8&amp;oh=00_Af2GI0ABQwAhEOgmfU6rOYllIA-fRbx_yTabKBFCWYsdfA&amp;oe=69D21256" alt="No photo description available." />
-<a href="/jl/articles/03222026.html">Weekly recap: 03/22/2026</a>
+<a href="/jl/articles/03312026wl.html">Weekly recap: 03/31/2026</a>
 </div>
 </div>
 <br>
