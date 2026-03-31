@@ -60,7 +60,8 @@ text-align: center;
 <h2>News</h2>
 
 <ul> 
-  <li><a href="/jl/articles/tefillin1.html">Neww Video: How to put on Tefillin (English)</a></li>
+  <li><a href="/jl/articles/03312026wl.html">New Weekly Recap 03/31/2026</a></li>
+  <li><a href="/jl/articles/tefillin1.html">New Video: How to put on Tefillin (English)</a></li>
   <li><a href="/jl/articles/shemaprayer(english)1.html">New Video: Shema prayer (English)</a></li>
   <li><a href="/jl/articles/03222026.html">Weekly Recap of 03/22/2026</a></li>
   <li><a href="/ei/eogle/eogle.html">Updated and continued lore for EO: G Language edition</a></li>
