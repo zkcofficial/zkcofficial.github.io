@@ -111,6 +111,14 @@ function myFunction() {
 <hr>
 
 <div class="main1">
+<div class="div1">
+<img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="NA" />
+<a href="/jl/articles/timesOfPrayer.html">How I pray</a>
+</div>
+</div>
+<br>
+
+<div class="main1">
 <iframe width="400" height="341" src="https://www.youtube.com/embed/z5PPIFOX1bE?si=Zhfy4sEWB3BnFvcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
