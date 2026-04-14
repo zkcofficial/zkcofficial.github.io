@@ -10,57 +10,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-/* Create a column layout with Flexbox */
-.row {
-  display: flex;
-}
-
-/* Left column (menu) */
-.left {
-  flex: 35%;
-  padding: 15px 0;
-}
-
-.left h2 {
-  padding-left: 8px;
-}
-
-/* Right column (page content) */
-.right {
-  flex: 65%;
-  padding: 15px;
-}
-
-/* Style the search box */
-#mySearch {
-  width: 100%;
-  font-size: 18px;
-  padding: 11px;
-  border: 1px solid #ddd;
-}
-
-/* Style the navigation menu inside the left column */
-#myMenu {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-#myMenu li a {
-  padding: 12px;
-  text-decoration: none;
-  color: black;
-  display: block
-}
-
-#myMenu li a:hover {
-  background-color: #eee;
-}
-    
   .main1 {
     display: flex;
   justify-content: center;
@@ -140,31 +89,6 @@ height: 400px;
 <hr>
 
 <iframe class="searchbar1" src="/jl/search/searchbar.html"></iframe>
-
-<hr>
-<div class="row">
-  <div class="left" style="background-color:#bbb;">
-    <h2>Menu</h2>
-    <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
-  <ul id="myMenu">
-          <li><a href="/jl/articles/howToTakeOffTefillin1.html">How to properly take off Tefillin (Sephardi, English)</a></li>       
-          <li><a href="/jl/articles/howToTakeOffATallit1.html">How to take off a Tallit/Talis Gadol</a></li>       
-          <li><a href="/jl/articles/howToPutOnATallit1.html">How to put on a Tallit/Talis Gadol</a></li>    
-          <li><a href="/jl/articles/pesach2026.html">Pesach/Passover 2026</a></li>       
-          <li><a href="/jl/articles/03312026wl.html">Weekly Recap 03/31/2026</a></li>       
-          <li><a href="/jl/articles/tefillin1.html">Putting on Tefillin (English)</a></li>       
-          <li><a href="/jl/articles/shemaprayer(english)1.html">Shema prayer (English)</a></li>
-          <li><a href="/jl/articles/03222026.html">Week of 03/22/2026</a></li>
-          <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
-  </ul> 
-  </div>
-  
-  <div class="right" style="background-color:#ddd;">
-    <h2>Page Content</h2>
-    <p>Start to type for a specific article you wish to view.</p>
-    
-  </div>
-</div>
 
 <script>
 function myFunction() {
