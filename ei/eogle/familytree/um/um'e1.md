@@ -3,7 +3,7 @@
 ### King Um'e
 
 <i>Portrait not available</i>
-
+(Em'wu'wmwa Um'e'Um is his title, meaning King Um'e of Um in the Um tradition)
 <hr>
 
 Children:<br>
