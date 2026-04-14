@@ -9,7 +9,7 @@
 
 <br>
 
-Prince Ea'Eiseae son of king Eiseae of the kingdom Eiseae but seeing the situation he decided to take up the proposition given by king Im'ea to marry his daughter Lady Mimhea'We and gain combined control of her domain, giving up his claim to the thrown of his father Eiseae in the process and settling in the country of Seae, becoming Lord Ee'Eiseae of Eseae.
+Prince Ea'Eiseae son of king Eiseae of the kingdom Eiseae but seeing the situation he decided to take up the proposition given by king Im'ea to marry his daughter Lady Mimhea'We and gain combined control of her domain, giving up his claim to the thrown of his father Eiseae in the process and settling in the country of Seae, becoming Lord Ee'Eiseae of Eseae. The four pronged crown he wears is an homage to King Im'ea of Seae's four pronged crown and will be passed down as a right of dominion to his descendents.
 
 <br>
 
