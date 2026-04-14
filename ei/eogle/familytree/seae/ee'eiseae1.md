@@ -2,7 +2,9 @@
 
 ### Duke Ee'Eiseae
 
-<i>Portrait not available</i> <br>
+![attachment (44)](https://github.com/user-attachments/assets/030a3c81-e161-4b09-856e-98d701493550)
+(Eiem'Pomwa Ee'Eiseae'Ium is his official title, meaning 'Duke Ee'Eiseae of Ium')
+
 
 <hr>
 
