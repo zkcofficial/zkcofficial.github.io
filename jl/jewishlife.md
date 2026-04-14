@@ -133,6 +133,9 @@ a:active {
 
 <hr>
 
+<iframe width="100%" heigh="401" src="/jl/search/searchbar.html"></iframe>
+
+<hr>
 <div class="row">
   <div class="left" style="background-color:#bbb;">
     <h2>Menu</h2>
