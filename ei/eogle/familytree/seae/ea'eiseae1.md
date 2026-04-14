@@ -2,7 +2,8 @@
 
 ### Lord Ea'Eiseae
 
-<i>Portrait not available</i> <br>
+![ddad0b6d9e85c0411bad4f7ff24bb619797b1e28-1](https://github.com/user-attachments/assets/0381d3f2-637f-4492-b3fc-888d54ca921e) <br>
+(Ei'iw'mwa Ea'Eiseae'Eseae is his title meaning Duke/lord Ea'eiseae of Eseae in the We tradition) 
  
 <hr>
 
