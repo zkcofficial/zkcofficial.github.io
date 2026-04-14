@@ -124,8 +124,8 @@ a:active {
 
 .searchbar1 {
 
-width: 500%;
-height: 800 px;
+width: 100%;
+height: 8000px;
 }
 </style>
 
@@ -138,7 +138,7 @@ height: 800 px;
 </div>
 
 <hr>
-hi
+hii
 <iframe class="searchbar1" src="/jl/search/searchbar.html"></iframe>
 
 <hr>
