@@ -2,7 +2,8 @@
 
 ### King We'e
 
-<i>Portrait not available</i>
+<i>Portrait not available</i><br>
+(Em'w'mwa We'e'We is his title, meaning King We'e of We in the We tradition)
 
 <hr>
 
