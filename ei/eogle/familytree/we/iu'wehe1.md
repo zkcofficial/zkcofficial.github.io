@@ -7,7 +7,7 @@
 
 <br>
 
-Lore: Princess Iu'Wehe was born to dual king We'e in the capitol city of We, but due to fear of civil and political unrest he sent her away to her uncle's kingdom of Seae, where her name was changed to  Mimhea'We hide her identity better and mark her as under the house of king Im'ea. Her uncle king Im'ea felt bad she should be in such a foreign place with little prestige, so he created a small vassel state called "Eseae" to give to her so she could have the title of 'Lady'. He then married her to prince Ea'Eiseae of the kingdom Eiseae, bonding the two once sworn enemies into one house. This marrige was created in good faith, and in good faith it would remain, granting the title of 'Lord' to prince Ea'Eiseae. Their marrige was lovely, ending with both of their deaths in the year 200 due to old age.
+Lore: Princess Iu'Wehe was born to dual king We'e in the capitol city of We, but due to fear of civil and political unrest he sent her away to her uncle's kingdom of Seae, where her name was changed to  Mimhea'We hide her identity better and mark her as under the house of king Im'ea. Her uncle king Im'ea felt bad she should be in such a foreign place with little prestige, so he created a small vassel state called "Eseae" to give to her so she could have the title of 'Lady'. He then married her to prince Ea'Eiseae of the kingdom Eiseae, bonding the two once sworn enemies into one house. This marrige was created in good faith, and in good faith it would remain, granting the title of 'Lord' to prince Ea'Eiseae. Their marrige was lovely, ending with both of their deaths in the year 200 due to old age. She wears a crown consisting of several emeralds which hang from a chain covering her head
 
 <br>
 
