@@ -138,7 +138,7 @@ height: 400px;
 </div>
 
 <hr>
-hii
+
 <iframe class="searchbar1" src="/jl/search/searchbar.html"></iframe>
 
 <hr>
