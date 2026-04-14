@@ -57,9 +57,6 @@ text-align: center;
 
 <hr>
 
-[https://chabad.org](https://www.chabad.org/)
-
-<a href="https://www.chabad.org/">Pesach/Passover 2026</a>
 <h2>News</h2>
 
 <ul> 
