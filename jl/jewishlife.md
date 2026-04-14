@@ -138,12 +138,14 @@ a:active {
     <h2>Menu</h2>
     <input type="text" id="mySearch" onkeyup="myFunction()" placeholder="Search.." title="Type in a category">
   <ul id="myMenu">
+          <li><a href="/jl/articles/howToTakeOffTefillin1.html">How to properly take off Tefillin (Sephardi, English)</a></li>       
+          <li><a href="/jl/articles/howToTakeOffATallit1.html">How to take off a Tallit/Talis Gadol</a></li>       
+          <li><a href="/jl/articles/howToPutOnATallit1.html">How to put on a Tallit/Talis Gadol</a></li>       
           <li><a href="/jl/articles/03312026wl.html">Weekly Recap 03/31/2026</a></li>       
           <li><a href="/jl/articles/tefillin1.html">Putting on Tefillin (English)</a></li>       
           <li><a href="/jl/articles/shemaprayer(english)1.html">Shema prayer (English)</a></li>
           <li><a href="/jl/articles/03222026.html">Week of 03/22/2026</a></li>
           <li><a href="/jl/articles/03132026wl.html">Inaugural post; Weekly recap: 03/14/2026</a></li>
-
   </ul> 
   </div>
   
