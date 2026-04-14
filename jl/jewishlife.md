@@ -121,6 +121,12 @@ a:active {
   background-color: grey;
   color: white;
 }
+
+.searchbar1 {
+
+width: 500%;
+height: 800 px;
+}
 </style>
 
 <div class="topnav">
@@ -132,8 +138,8 @@ a:active {
 </div>
 
 <hr>
-
-<iframe width="100%" heigh="800px" src="/jl/search/searchbar.html"></iframe>
+hi
+<iframe class="searchbar1" src="/jl/search/searchbar.html"></iframe>
 
 <hr>
 <div class="row">
