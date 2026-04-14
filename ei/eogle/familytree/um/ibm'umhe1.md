@@ -2,8 +2,8 @@
 
 ### Dutchess Ibm'Umhe
 
-<i>Portrait not available</i> <br>
-
+![attachment (45)](https://github.com/user-attachments/assets/b527370c-de1c-40d9-adf1-aae872fb5422)
+(Ii'pomwa Ibm'Umhe'Ium is her title, meaning Dutchess Ibm'Umhe of Ium in the Um tradition)
 <hr>
 
 <br>
