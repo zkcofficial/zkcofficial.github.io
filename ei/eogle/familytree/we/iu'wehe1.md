@@ -1,9 +1,8 @@
 # FamilyTree
 
 ### Iu'Wehe, also known as Lady Mimhea'We
-
-<i>Portrait not available</i> <br>
-
+![attachment (46)](https://github.com/user-attachments/assets/3d7aa32a-a0b0-4b80-9156-06d9fe2758c2)
+(Ii'iw'mwa Mimhea'We'Iseae is her title meaning Dutchess/Lady Mimhea'We of Iseae in the We tradition)
 <hr>
 
 <br>
