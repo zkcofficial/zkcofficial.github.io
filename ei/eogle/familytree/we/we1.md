@@ -3,7 +3,7 @@
 ### King We
 
 ![image](https://github.com/user-attachments/assets/e346dcf5-a0ab-4649-a2cd-70b98db90fc9)
-
+(Em'w'mwa We'We is his title, meaning King We of We in the We tradition)
 <hr>
 
 <br>
