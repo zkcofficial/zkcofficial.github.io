@@ -11,5 +11,5 @@ Lore: King Im'ea is seen here with a raised crown in the style of the previous r
 <br>
 
 Children: <br>
-[Imhea'e](imhea'e.md) <br>
+[Imhea'e](imhea'e1.md) <br>
 [(Adopted) Mimhea'We](iu'wehe1.md)
