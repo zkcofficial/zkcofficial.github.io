@@ -133,7 +133,7 @@ a:active {
 
 <hr>
 
-<iframe width="100%" heigh="401" src="/jl/search/searchbar.html"></iframe>
+<iframe width="100%" heigh="800px" src="/jl/search/searchbar.html"></iframe>
 
 <hr>
 <div class="row">
