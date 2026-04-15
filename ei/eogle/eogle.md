@@ -31,7 +31,8 @@ tr:nth-child(even) {
 First off, the language.<br>
 This is a compound language, meaning that words can stack to create new meaning. <br>
 The general concept in this language is when referring to an object or concept, you compound the words to make words in this language.<br>
-Lets take an imaginary example: If you want to say 'A man is running' you would say every word, so you would say "(A) Man is running". But if you wanted to refer to the concept of a man running in general, you would say, according to the ruled of the language, "(A)Manisrunning".<br>
+Lets take an imaginary example: If you want to say 'A man is running' you would say every word, so you would say "(A) Man'(is)running". But if you wanted to refer to the concept of a man running in general, like a phenomenon where a man runs in some way, you would say, according to the ruled of the language, "(A)Manisrunning".<br>
+I can think of how this could be used: You are living on a farm, and you wanted to say 'omg a man is running over here'. You'd probably say according to the language Man'running. This example shows how a man is doing an action which utelizes running. Now lets say you wanted to refer to a phenomenom where a guy always ran through your field for whatever reason. You're gonna say "oh looks like theres the guy runing again" or "Mansrunning". With this example, you are demonstrating how you use 
 In this example of the structure of the language, to refer to a concept, regardless of how complex or specific it is, you use the compound form. If not, and you are refering to an acive action, you say/pronounce the words spaced out/individually.<br>
 
 Ok; now to the language's words itself:<br>
@@ -143,6 +144,24 @@ Second is king "Um". His name means generally 'Big man' (This meaning may seem s
 Third is king "Seae", meaning 'Unnaturally large for people'. He had a son named "Seae'e" meaning 'Seae the second'. He
 then had another son who he named "Eiseae" meaning 'Small seae'. King Seae also founded the city of "Mwa'Seae", meaning 'City of Seae'. <br>
 (insert tab)
+
+<hr>
+
+### Dialects
+
+<hr>
+<p>
+There are three main dialects of starting language - the We dialect, the Um dialect and the Seae/Eiseae dialects of the starting language.<br>
+The We dialect is the traditional pronounciation of the seed language. It is essentially the written latin of this world, being preserved by generally the subjects of the kingdom of We. The other 2.5 dialecs are the Um and Seae/Eiseae dialects. These dialects occured because the 7 tribes that would make up these two initial kingdoms originated from the mountain region which the kingdom of We/the descendants of the kingdom of We inhabit. They split and became isolated, developing their dialects while leaving the people of We essentially the same language they all once shared. </p>
+<p>
+First off, the We dialect and accent is very direct and boldly says each of the letters in a word (example saying 'We' they pronounce it "W-EEH")</p>
+<p>Second, the Um dialect prononces all words ending with A, E, I, O and U with a 'y' so they would say "We" as "WEE-Y"</p>
+<p>Seae dialect pronounces A, E, I, O and U as you would normally in english, but pronounces words ending with W, B, M, P and S with an 'EE' so they would say 'Um' 
+as "OOM-EE". <br>
+the Eiseae dialect is a little different, pronouncing words with a W, B, M, P and S at the end with an "OO" so if they wanted to say 'Um' they would say "OOM-OO".
+</p>
+
+Aside from that, because they austinsibly developed independantly from each other, they have some different titles. This means that by still following the rules of the language, you can spot the general meaning of words and titles and see how they compare and the history behind them. I am going to give you a challenge: Go through the family tree section and find a pair of dukes/lords, but both of the dukes/lords must have a different title according to seperate traditions. Next I want you to break down the etamology making up each of the titles, and see how they compare. Ready to start? Good luck!
 
 <hr>
 
