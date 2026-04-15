@@ -73,7 +73,7 @@ function myFunction() {
 
 <div class="main1">
 <div class="div1">
-<img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="NA" />
+<img width="400" height="301" alt="Screenshot 2026-03-13 4 51 42 AM" src="NA" /><br>
 <a href="/jl/articles/timesOfPrayer.html">How I pray</a>
 </div>
 </div>
