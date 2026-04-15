@@ -1,4 +1,4 @@
-# Ethnographic Odessy: Genesis <br> Language Edition 
+# Ethnographic Odessy: <br> Language Edition 
 
 
 
