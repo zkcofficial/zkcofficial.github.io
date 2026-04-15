@@ -44,7 +44,7 @@ a:active {
   text-decoration: none;
 }
 .searchbar1 {
-height: 600 px;
+height: 700 px;
 width: 100%;
 }
 </style>
