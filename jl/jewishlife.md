@@ -43,7 +43,10 @@ a:hover {
 a:active {
   text-decoration: none;
 }
-
+.searchbar1 {
+height: 500 px;
+width: 100%;
+}
 </style>
 
 <iframe class="searchbar1" src="/jl/search/searchbar.html"></iframe>
