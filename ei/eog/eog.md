@@ -1,4 +1,4 @@
-# Ethnographic Oddessy: Genesis
+# Ethnographic Oddessy
 
 <style>
 
@@ -41,7 +41,7 @@
 
 <hr>
 
-This is where I post my various Ethnographic interests - Games, stories/lore, phenomena and more. 
+This is where I post my various Ethnographic Oddessy stories
 <hr>
 <ul>
   
