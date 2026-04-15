@@ -44,7 +44,8 @@ text-align: center;
 <div class="topnav">
   <a class="active" href="https://zkcofficial.github.io/">Home</a>
   <a href="jl/jewishlife.html">Jewish Life</a>
-  <a href="ei/ethnographicinterests.html">Ethnographic Interests</a>
+  <a href="ei/eogle/eogle.html">EO Linguistics</a>
+  <a href="ei/eo/eo.html">Ethnographic Oddessy</a> 
   <a href="ar/art.html">Art</a>
   <a href="#about" class="split">About</a>
 </div>
