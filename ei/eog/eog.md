@@ -1,4 +1,4 @@
-# Ethnographic interests
+# Ethnographic Oddessy: Genesis
 
 <style>
 
@@ -34,7 +34,7 @@
 <div class="topnav">
   <a class="active" href="https://zkcofficial.github.io/">Home</a>
   <a href="/jl/jewishlife.html">Jewish Life</a>
-  <a href="ei/ethnographicinterests.html">Ethnographic Interests</a>
+  <a href="ei/ethnographicinterests.html">Ethnographic </a>
   <a href="/ar/art.html">Art</a>
   <a href="/#about" class="split">About</a>
 </div>
@@ -45,7 +45,5 @@ This is where I post my various Ethnographic interests - Games, stories/lore, ph
 <hr>
 <ul>
   
-  <li><a href="eog.html">EO: G 1</a></li>
-  <li><a href="eogle/eogle.html">EO: G Language Edition</a></li>
-    
+  <li><a href="eog.html">EO: Genisis 1</a></li>    
 </ul>
