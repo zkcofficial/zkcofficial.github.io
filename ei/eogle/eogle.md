@@ -24,7 +24,7 @@ tr:nth-child(even) {
 
 <hr>
 
-### This is the Language Edition of the series EO: G. This is where I discuss the general language, culture and ancestry of the charecters in EO: G. Due to how language often works, much of the world is made up of references to previous people, places and events, in addition to general lingual evolution; Which is what I am going to capture here.
+### This is the Language Edition of the series Ethnographic Oddessy series. This is where I discuss the general language, culture and ancestry of the charecters in EO: G and others. Due to how language often works, much of the world is made up of references to previous people, places and events, in addition to general lingual evolution; Which is what I am going to capture here.
 
 <hr>
 
