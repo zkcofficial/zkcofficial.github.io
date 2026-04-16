@@ -161,7 +161,42 @@ as "OOM-EE". <br>
 the Eiseae dialect is a little different, pronouncing words with a W, B, M, P and S at the end with an "OO" so if they wanted to say 'Um' they would say "OOM-OO".
 </p>
 
-Aside from that, because they austinsibly developed independantly from each other, they have some different titles. This means that by still following the rules of the language, you can spot the general meaning of words and titles and see how they compare and the history behind them. I am going to give you a challenge: Go through the family tree section and find a pair of dukes/lords, but both of the dukes/lords must have a different title according to seperate traditions. Next I want you to break down the etamology making up each of the titles, and see how they compare. Ready to start? Good luck!
+<p>
+Aside from that, because they austinsibly developed independantly from each other, they have some different titles. This means that by still following the rules of the language, you can spot the general meaning of words and titles and see how they compare and the history behind them. 
+</p>
+
+<p>
+For example, lets say we wanted to describe a <i>state</i>, perhaps a <i>vassel</i> or a <i>duchy</i>, just some sort of political body which is under the authority of a larger political entity. 
+Lets take an example from the 'We' dialect/tradition. In this dialect of the main parent language, we are going to be taking a word 'Mwa', meaning city (lit. 'human' + 'much/action' + 'land') and combime it with the word Iw, meaning Small action (lit. 'small' + 'action'), creating the word Iw'mwa, meaning vassel/lesser subserviant kingdom. The reason the word is structured this way is according to the rules of the language, to make many complex words you need to have one word which applies a larger meaning to a second word. The way this works in english would be like the word 'city'; the idea of a city is a large continous human settlement (among other things). So in order to say 'city' in this language, you would say 'human' + 'large' + 'area', because you need to clarify what kind of large are you are speaking about, ie. woods, rock, human etc. So you would structure the word as Human'LargeArea, saying "Humans cover this area".</p>
+
+<p>
+Lets use the same example of describing a vassel but this time in the 'Um' dialect. They would say the word vassel as "Pomwa", combining the words 'po' (lit. 'little' + 'require') and 'mwa', meaning city, to form the word vassel. This is a valid way of referring to to the idea of a vassel in the language while still following the rules of the language.
+</p>
+
+<p>
+  Lets now describe how to say the word vassel in the 'Seae' dialect. This is said in the form of "Mwa'pu", made up of the words "mwa" meaning city and "pu" meaning little requirement/self sufficient (lit. 'little' + 'require'). Again this is still a 100% valid etemology, it just is a different way of describing an idea.
+</p>
+
+<p>
+  Finally, in the 'Eiseae' dialect, the way to say vassel is "Pmwa", made up from the words 'mwa', again meaning city, and 'p' meaning little. 
+</p>
+
+<p>
+The goal for making these dialects and etemologies was to show how different larger societal philosephies/cultural understandings of certain topics can affect a language's evolution and etemology as a whole.<br>
+For example, with the 'We' dialect, I wanted to show how their general cultural expectation/understanding of a vassel was that it was just a smaller, less productive nation, as reflected by their etemology of the word vassel being "Iw'mwa", literally 'small city/realm', suggesting that societally/in practice a vassel was often seen as more of an independant body than something owned outright by the larger nation.<br>
+With the 'Um' dialect, I wanted to show their understanding of a vassel as something which requires less work to maintain than the larger cities/kingdom, reflected in their word for vassel being "Pomwa", literally meaning 'city/realm which requires little', suggesting the larger kingddom of Um has larger cities or more things to worry about than a single vassel state.<br>
+Now with the 'Seae' dialect, I wanted to show that their expectations of a vassel kingdom/state were that it was of little value to have/it was possibly a bad investment to have a vassel, which I have tried to show with their word for vassel, "mwa'pu", literally meaning 'city which brings little benefit'. This could possibly reflect a commonly known cultural history of vassel realms not providing benefit to their larger kingdom. <br>
+The last example is that of the 'Eiseae' dialect, which reflects a cultural attitude of indifference to vassels, as reflected by their word for vassel "pmwa" literally meaning 'little city', suggesting that they culturally have less of a history of vassel realms causing benefit or harm, and thus only knowing vassels as 'smaller cities'. This is reflected beautifully in the history of the kingdom who's citizens created this dialect. That is because the kingdom of Eiseae and its history are comparably newer than the older three kingdoms and dialects, as according to the lore of of this world the kingdom of Eiseae split from the kingdom of Seae and isolated itself geographically and socially from the kingdom Seae, creating a sub dialect of the Seae tradition. I have tried to show this newer history in Eiseae's lingual history as well as its written history.
+</p>
+
+
+
+
+
+
+
+
+
 
 <hr>
 
