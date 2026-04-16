@@ -63,7 +63,7 @@ The next prince was prince Um'i son of king Um'e of the kingdom Um. He rose and 
 <p>
 Prince Ee'Eiseae of Eiseae married Dutchess Ibm'Umhe of Ium, becoming Duke Ee'Eiseae of Ium.</p>
 <p>
-The next was prince Imhea'e, who inherited the title of his father king Im'ea of Seae, becoming Imhea'e of Seae.<br>
+The next was prince Imhea'e, who inherited the title of his father king Im'ea of Seae, becoming king Imhea'e of Seae.<br>
 Prince Ea'Eiseae of Eiseae married Lady Mimhea'we of Eseae, becoming Lord Ea'Eiseae of Eseae.</p>
 <p>
 The last was prince Ei'Eiseae third born son of king Eiseae of Eiseae. He inherited his father's role as king Ei'Eiseae of Eiseae. </p>
@@ -71,7 +71,13 @@ The Map:<br>
 
 <img src="https://github.com/zkcofficial/zkcofficial.github.io/blob/main/ei/imagedump/45b1793f3a66eed491ee986461e7034f5adefe8d-1.jpeg?raw=true" alt="45b1793f3a66eed491ee986461e7034f5adefe8d-1.jpeg" width="786" height="1024"/>
 
+Part 3.<br>
+<p>
+The king Imhea'e of Seae wanted to unite his realm with that of his sub dominion Eseae, which he didn't technically own. He wanted his son, Imhea'i to inherit both his own personal domain of Seae and his vassel, the dutchy of Eseae. To do this, Imhea'e struck a deal with Mimhea'We dutchess of Eseae to have his son Imhea'i marry her daughter Uwi, thus uniting both domains under one owner. There was one problem though, Uwi was the second born child of dutchess Mimhea'We, meaning she would not by default inherit the dutchy, This would go to her older brother Ei'Imhea. So king Imhea'e devised a plan: He knew that Ei'Imhea was incredibly reclusive and eccentric, and not overly gifted in ruling, preferring to be alone than be in the company of the court. So king Imhea'e gave Ei'Imheae an altimatum: leave and marry a foreign princess, giving up your inheritance of Eseae and letting your sister Uwi have it, or I will use your eccentric nature as evidence of your incompetance and innability to rule due to your mental state, using that as an excuse to have you imprisoned here. <br>
+Sufficed to say, Ei'Imhea understood the threat and agreed to marry a foreign princess and gain dual control of her realm, giving up his inheritance of Eseae to his sister, Uwi. </p>
 
+<p>
+Meanwhile, in the kingdom of We, the two dual monarchs, brothers We'i and U'Wehe both see a problem: They both have sons, and both sides of the family could potentially claim the thrown. So in order to maintain peace and prevent any poential future strife, they hatch a plan: King We'i and his line will stay king over the throne, and his brother U'Wehe will march with his sons U'Wehe'e and Weem on the kingdom Seae, deposing its rulers and installing themselves as the rulers of the land. Thus, they will abolish the two king system in We, making king We'i and his descendants sole rulers over the kingdom of We and U'Wehe and his descendants sole rulers over the kingdom of Seae.</p>
 
 
 
