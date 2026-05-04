@@ -103,15 +103,21 @@ Others, however viewed the marrige as harmful, due to the fact the princess was 
 </p>
 
 <p>
-In desciding who will marry his daughter, princess I'uiseae, king Ei'Eiseae of Eiseae had a to make a choice: marry her to the prince Ei'Um of the kingdom Um, who had a very well established dynasty, or marry her to one of the kings of the newly established Six Towns, which were made up of refugees from the kingdom Seae. If he married her to the prince of Um, that would probably be safe yet there was no political advantage for the union. There was however, an advantage to marrying her to one of the Six Towns; That being if he did this he would essentially be cementing one of the Six Town's rulers as officially royal, bringing much esteem to that kingdom. Now in order to be a kingmaker, king Ei'Eiseae had to choose a king. So he did so, chooseing the ruler Ee of the town Aae as the person to marry his daughter. So, they were wed, officially establishing the ruler Ee as the official king of Aae and bringing much esteem and importantly trae to that kingdom. The five remaining rulers of the Six Towns also cemented themselves as monarchs, however they were much smaller and enjoyed much less trade and esteem than the kingdom Aae.
+In desciding who will marry his daughter, princess I'uiseae, king Ei'Eiseae of Eiseae had a to make a choice: marry her to the prince Ei'Um of the kingdom Um, who had a very well established dynasty, his brother prince Um'o who was the heir to the throne of Um, or marry her to one of the kings of the newly established Six Towns, which were made up of refugees from the kingdom Seae. If he married her to one of the princes of Um, that would probably be safe yet there was no practical political advantage for the union. There was however, an advantage to marrying her to one of the Six Towns; That being if he did this he would essentially be cementing one of the Six Town's rulers as officially royal, bringing much esteem to that kingdom. Now in order to be a kingmaker, king Ei'Eiseae had to choose a king. So he did so, chooseing the ruler Ee of the town Aae as the person to marry his daughter. So, they were wed, officially establishing the ruler Ee as the official king of Aae and bringing much esteem and importantly trae to that kingdom. The five remaining rulers of the Six Towns also cemented themselves as monarchs, however they were much smaller and enjoyed much less trade and esteem than the kingdom Aae.
+</p>
+
+<p>
+  The king of Um, king Um'i ruled his realm well. Often holding parties for foriegner dignitaries, his realm became known as a place of peace and prosperity. He lobbied the king of Eiseae to marry his son prince Um'o to princess I'uiseae, but the deal fell through. His second option for his son's wife was lady Ium of the house of Ium. Her family had a great deal of power, espescually as her brother in law duke Ei'imheae conquered the realm of Eseae and much of Seae. Um'o and Ium were married, uniting their houses and providing another branch of inheritance for the duchy of Ium. 
 </p>
 
 <p>
   By the year 210, all the rulers of the previous generation had died. Their descendents amd heirs were as follows:<br>
-  
+  The kingdom of Seae: King Imhea'e and his family were overthrown, with all but one of its members being killed by the invasion carried out by the former dual king U'Wehe of We and his son Weem. The kingdom was heavily destroyed, with many of the people in the north and east fleeing to the wilderness behind the eastern side of the Ea mountains, creating the six towns, each with independant rulers. The duchy of Eseae was planned to go to lady Uwi and her soon to be husband prince Imhea'I, but they were slain alongside much of their family by the forces of lady Uwi's brother, the exiled duke Ei'Imhea of Ium who took power in Eseae. 
 </p>
 
-
+<p>
+  The kingdom of Um: The king of Um stayed out of politics, not getting his realm into a costly war with the kingdom of Seae. His son, prince Um'o married lady Ium of the house of Ium, ascending the throne of Um after his father's passing. 
+</p>
 
 
 
