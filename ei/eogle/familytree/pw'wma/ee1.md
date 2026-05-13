@@ -3,7 +3,7 @@
 ### King Ee
 
 <i>Image</I><br>
-(Em'w'omwa Seae'Seae is his title, meaning King Seae of Seae in the Seae tradition)
+(Em'w'omwa Ee'Aae is his title, meaning King Ee of Aae in the Seae tradition)
 
 <hr>
 
