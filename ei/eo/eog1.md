@@ -77,9 +77,9 @@ The king Imhea'e of Seae wanted to unite his realm with that of his sub dominion
 Sufficed to say, lord Ei'Imhea understood the threat and agreed to marry the foreign lady Umhe'imwi eldest daughter of Ibm'Umhe dutchess of Ium and gain dual control of her realm, giving up his inheritance of Eseae to his sister, lady Uwi. <i>*Note: Dutchess Ibm'Umhe gave her eldest daughter lady Umhe'imwi in marrige to Lord Ei'Imhea according to their tradition, which is to marry off the oldest daugter first.</i></p>
 
 <p>
-Meanwhile, in the kingdom of We, the two dual monarchs, brothers We'i and U'Wehe both see a problem: They both have sons, and both sides of the family could potentially claim the thrown and cause strife. So in order to maintain peace and prevent any poential future strife, they hatch a plan: King We'i and his line will stay king over the throne, and his brother U'Wehe will march with his sons U'Wehe'e and Weem on the kingdom Seae, deposing its rulers and installing themselves as the rulers of the land. Thus, they will abolish the two king system in We, making king We'i and his descendants sole rulers over the kingdom of We and U'Wehe and his descendants sole rulers over the kingdom of Seae. As this was descided, the monarch We'i found that no one of royal birth wanted to marry his daughter Im'wi, so he had her married to his top general, Eboe. He then created a dutchy for the both of them, to serve as the nation's military might. This dutchy was called We'aebm, and in exchange for it Im'We gave up her descendent's future claim to the throne of We, thus becoming dutchess Im'We of We'aebm and her husband becoming duke Eboe of We'aebm. (King We'i did this to both provide his daughter with honor but keep any of her children from being able to make a claim for the throne of We against her brother We'o's descendents. King We'i then passed an eternal law for the kingdom of We, stating the candidate for king/queen must be a descendent of We'o and that they may never be ruler if they either ruled another territory or are descended from someone who had ruled another territory aside from We)</p>
+Meanwhile, in the kingdom of We, the two dual monarchs, brothers We'i and U'Wehe both see a problem: They both have sons, and both sides of the family could potentially claim the thrown and cause strife. So in order to maintain peace and prevent any poential future strife, they hatch a plan: King We'i and his line will stay king over the throne, and his brother U'Wehe will march with his sons U'Wehe'e and Weem on the kingdom Seae, deposing its rulers and installing themselves as the rulers of the land. Thus, they will abolish the two king system in We, making king We'i and his descendants sole rulers over the kingdom of We and U'Wehe and his descendants sole rulers over the kingdom of Seae. As this was descided, the monarch We'i found that no one of royal birth wanted to marry his daughter Im'wi, so he had her married to his top general, Eboe. He then created a dutchy for the both of them, to serve as the nation's military might. This dutchy was called We'aebm, meaning 'Land of human death/the military of We', and in exchange for it Im'We gave up her descendent's future claim to the throne of We, thus becoming dutchess Im'We of We'aebm and her husband becoming duke Eboe of We'aebm. (King We'i did this to both provide his daughter with honor but keep any of her children from being able to make a claim for the throne of We against her brother We'o's descendents. King We'i then passed an eternal law for the kingdom of We, stating the candidate for king/queen must be a descendent of We'o and that they may never be ruler if they either ruled another territory or are descended from someone who had ruled another territory aside from We)</p>
 
-<i>Image</i>
+<img width="786" height="1024" alt="8622820daab8bdfc5d7dce4af592f2b8e20ef998-1" src="https://github.com/user-attachments/assets/77ee3ae6-432a-421f-8128-4a8ddbb0c061" />
 
 <p>
   Thus, the dual king U'Wehe gave up his title of dual king, temporarily becoming royal general U'Wehe along with his sons U'Wehe'e and Weem to conquer the kingdom of Seae. The royal general U'Wehe went to a party put on by king Um'i of the kingdom of Um, hoping to secure support to invade the kingdom of Seae. While there, he met the now duke Ei'Imhea of Ium who was interested in supporting their cause. Duke Ei'Imhea descided to help U'Wehe take the thrown on the condition that he give Ei'Imhea his possession and rightful inheritance of Eseae back. The royal general U'Wehe agreed to this, and they began plans to march on Seae. 
@@ -89,19 +89,19 @@ Meanwhile, in the kingdom of We, the two dual monarchs, brothers We'i and U'Wehe
   As this was happeneing, the king Imhea'e of Seae heard the news of the dual former dual king U'Wehe's abdacation from the thrown and his appointment to the military, the ammassing of soldiers in the lands between the kingdoms of Seae and We and U'Wehe going around to parties in the neiboring kingdoms supposedly trying to drum up support for an invasion, and became suspicious of invasion. So, he started ammassing his forces under the command of his son prince Imhea'I on the road between Seae and We, establishing an extremly large fortress called "Awuseae" meaning "Land for the benifit of Seae", conscripting over half of the male population of Seae, nearly 14,000 men into the military. 
 </p>
 
-<i>Image</i>
+<img width="786" height="1024" alt="8d76f21b4a912157a8bc33cd45509a4bca196c99-1" src="https://github.com/user-attachments/assets/3a782f1e-7a9b-4129-a385-0ded12bf56f5" />
 
 <p>
 The forces of U'Wehe, numbering over 16,000 men, began the battle to take Awuseae in the year 180, marching on the fort from We. As they marched, a second force lead by duke Ei'Imhea of about 5,000 soldiers marched up from Ium to invade the unprepared Eseae and southern Seae. As they marched they toured through Eseae and the southern part of Seae, marching up to the royal castle of Seae and Eseae. They stopped before the castle of Seae, wanting to let the We forces capture it first, but they marched on the castle of Eseae, burning it down and killing now princess consort Uwi, in addition to her husband prince Imhea'i heir to the thrown of Seae, in addition to many minor members of the Seae royal family and the family of Eseae who had come to celebrate the new couple's wedding. The only survivor to this massacere was princess Weim, who fled to the kingdom of Eiseae. With this, duke Ei'imhea of Ium also assumed the title of duke of Eseae. While this was happening, the west and south of Seae was being heavily occupied by Ium forces, forcing king Imhea'e to shelter in his citidel.<br>
 His forces were held up in Awuseae, fighting a bitter series of battles. On the We side, the forces of U'Wehe attacked Awuseae, losing about 6,000 men in one day, promptly to be known as the battle of Awuseae. Notably, the former prince now royal general U'Wehe'e died during the assault. They continued onward, pushing into the kingdom of Seae. The inhabitants mustered one last levy, summoning about 10,000 men. They faught bitterly, turning the land into a warzone. Finally, after one more push, the forces of U'Wehe and Weem established a clear line to the citidel of Seae. They pushed in, destroying part of it and killing king Imhea'e of Seae. There, U'Wehe had himself corinated as high general and king of Seae, and his son as second general and prince Weem of Seae. As this line from Awuseae to the citidel of Seae was established, the opposition belonging to the former government descided to abandon the warzone in Seae, understanding that they were fighting a losing battle, and with them being outnumbered severly, they descided to flee. They fled, along with much of the populaion of Northern and eastern Seae, over the Wuh river and past the start of the Ea mountains, settling in the wilderness on the eastern side of the Ea mountains and forming the independant towns of Iae ruled by Wum, Aae ruled by Ee, Oae ruled by Imhea, Ea ruled by Eeuo, Eae ruled by Eseaehe and Ba ruled by Seae. 
 </p>
 
-<i>Image</i>
+<img width="1024" height="786" alt="21844e323870d25801ef99a5b35a3ee6420dda8b-1" src="https://github.com/user-attachments/assets/46aa4f4c-1e58-43dc-aa0a-032234977150" />
 
 <p>
   The now exiled princess Weim daughter of Ea'Eiseae of the kingdom Seae fled to the kingdom of Eiseae, hoping to take reuge there. The king of Eiseae, Ei'Eiseae, saw her to be a fitting bride for his son, prince Eiheiseae'e. So he asked her, and upon meeting the prince, she was in love. So they were wed, with them establishing a family. This marrige was seen as benificial to many, as it symbolized the reuniting of the ancient house of Seae, which used to rule the kingdom of Seae but was cast out (the princess Weim is both the last descentant of Seae to have still inhabited the kingdom Seae and is a part of the house of Seae due to her father Ea'Eiseae being a descendant of Eiseae, the prince who fled the kingdom of Seae as it was taken invaded). <br>
 Others, however viewed the marrige as harmful, due to the fact the princess was a descendant of the conquerer of the kingdom of Seae, Im'ea through her mother, Iu'Wehe's side. They viewed this as a sort of cultural invasion, a plot almost to infect and destroy the exiles of Seae, Eiseae.<br>
-  <i>Image</i>
+  
 </p>
 
 <p>
@@ -131,17 +131,22 @@ In desciding who will marry his daughter, princess I'uiseae, king Ei'Eiseae of E
 
 <p>
   The kings of the six towns were:
-  King Ee of Aae who married princess I'uiseae of Eiseae, making his kingdom quite wealthy.<br>
-  King Wum of Iae,<br>
-  King Imhea of Oae (names after the historical king Imhea of Seae),<br> 
-  King Eeuo of Ea, <br>
-  King Eseahe of Eae and <br>
-  King Seae of Ba (named after the historical king Seae).
+  King Ee of Aae who married princess I'uiseae of Eiseae, making his kingdom quite wealthy. King Ee died, leaving his son Ee'e as to inherit the kingdom of Aae ashis domain. <br>
+  King Wum of Iae. After his death, he was inherited as king by his son prince Wum'e.<br>
+  King Imhea of Oae (names after the historical king Imhea of Seae). After his death, is only daughter I'Imheae became ruler of the realm.<br> 
+  King Eeuo of Ea. After his death his son Eeuo'e became king in his stead, however he insured his two other sons We'Eeuo and Pe'Eeuo were given towns to govern so they had power of their own. <br>
+  King Eseahe of Eae. His eldest son, Imhea, named after king Eseahe's former commander in the war between the kingdoms Seae and We, the now descesed king Imhea of Oae, became king in his stead. <br>
+  King Seae of Ba (named after the historical king Seae) died, and his first son Um'Ba took his place as king of Ba, with his second som Mu'Ba becoming the head of the military (do to split power and prestege equally between the brothers)
 </p>
 
 Those were the rulers of the world and the rulers who came after them. 
 <br>
 
+<hr>
+
+### This is the end of EO Genesis 1. Stay tuned for EO Genesis 2!
+
+<hr>
 
 
 
