@@ -2,7 +2,9 @@
 
 ### Princess I'ee
 
-<i>Image not available</I> 
+<i>Image not available</I> <br>
+Her name I'Ee means "Female Ee" in honor of her father Ee.
+
 <br>
 
 
