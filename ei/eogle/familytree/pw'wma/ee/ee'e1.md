@@ -4,7 +4,8 @@
 
 <i>Image not available</I> 
 <br>
-(Em'w'omwa Ee'e'Aae is his title, meaning King Ee'e of Aae in the Seae tradition)
+(Em'w'omwa Ee'e'Aae is his title, meaning King Ee'e of Aae in the Seae tradition)<br>
+His name translates to "Ee the second".
 
 <hr>
 
