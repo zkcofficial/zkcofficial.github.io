@@ -16,5 +16,5 @@ Lore: He was the first king of the kingdom of Oae after fleeing from the home ki
 <br>
 
 Children:<br>
-<a href="#">I'Imhea</a><br>
+<a href="i'imhea1.html">I'Imhea</a><br>
 
