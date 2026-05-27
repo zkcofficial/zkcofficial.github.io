@@ -1,4 +1,4 @@
-# Ethnographic Oddessy
+# Ethnographic Oddessy: General
 
 <style>
 
