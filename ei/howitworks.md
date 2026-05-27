@@ -44,8 +44,9 @@ just repeat the process for the untouched kingdoms. After all of this, I decide 
 recorded here, and I decide who inherits/takes control of each realm/governmental body. Using this system, in addition to the etamological system I have developed, I can create 
 in-game culture, references and history, thus creating a rich tapestry of culture based on region and ethnicity. All of it is entirely fictional and repeatable, 
 which I am incredibly proud of! <br>
+<p>
 I hope you've enjoyed this article! - Zephyr
-
+</p>
 
 
 
