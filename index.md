@@ -46,7 +46,7 @@ text-align: center;
   <a href="jl/jewishlife.html">Jewish Life</a>
   <a href="ei/eogle/eogle.html">EO Linguistics</a>
   <a href="ei/howitworks.html">EO algorithum</a>
-  <a href="ei/eo/eo.html">EO: Genesis</a> 
+  <a href="ei/eo/eo.html">EO: General</a> 
   <a href="ar/art.html">Art</a>
   <a href="#about" class="split">About</a>
 </div>
