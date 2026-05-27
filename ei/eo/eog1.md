@@ -1,13 +1,13 @@
-# Ethnographic Odessey: Genesis 1
+# Ethnographic Odessey: Genesis Cycle one
 <hr>
 
-### This game is called EO: Genesis 1 because this is the first book in the story of Ethnographic Odessey, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
+### This game is called EO: Genesis Cycle one because this is the first book in the story of Ethnographic Odessey, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
 
 
 <hr>
 
 
-Part 1: The world is formed<br>
+Part I: The world is formed<br>
 This is the earth, Called in the language 'Ay'<br>
 Earth:
 
@@ -37,7 +37,9 @@ The second born of king We, prince Im'ea, recieved the city of 'Seae' as his inh
 Seae'e, firstborn of king Seae, was killed in battle along with his father. Prince Eiseae, second born of king Seae, founded the city 
 'Eiseae', which he took took as his portion. And prince Um'e, only child of king Um, inherited the city of 'Um' as his inheritance. 
 ![attachment (32)](https://github.com/user-attachments/assets/4204728d-b788-4e99-8ff5-542f4a72e748)
-Part 2: Rebuilding from the rubble<br>
+
+
+Part II: Rebuilding from the rubble<br>
 With new rulers in place and the experiance from previous wars faught by their ancestors, many of the kings sought to foster peace between their lands. 
 <p>
 One of these kings in particular, king Im'ea of Seae, was keen to improve relations with his former enemy, king Eiseae of the kingdom Eiseae. Through messengers, king Im'ea managed to somewhat smooth relations with king Eiseae, with the two ultimatly deciding that the trade of rescources between the two kingdoms was benificial. The kingdom Eiseae provided iron and copper ores, plus a large supply of salmon caught from the resource rich Wuu river. This trade flowed south into the metropolotain center of the kingdom Seae, where traders and elites from many lands would congregate. </p>
@@ -71,7 +73,7 @@ The Map:<br>
 
 <img src="https://github.com/zkcofficial/zkcofficial.github.io/blob/main/ei/imagedump/45b1793f3a66eed491ee986461e7034f5adefe8d-1.jpeg?raw=true" alt="45b1793f3a66eed491ee986461e7034f5adefe8d-1.jpeg" width="786" height="1024"/>
 
-Part 3.<br>
+Part III: Change is made<br>
 <p>
 The king Imhea'e of Seae wanted to unite his realm with that of his sub dominion Eseae, which he didn't technically own. He wanted his son, prince Imhea'i to inherit both his own personal domain of Seae and his vassel, the dutchy of Eseae. To do this, Imhea'e struck a deal with Mimhea'We dutchess of Eseae to have his son prince Imhea'i marry her daughter lady Uwi, thus uniting both domains under one owner. There was one problem though, Uwi was the second born child of dutchess Mimhea'We, meaning she would not by default inherit the dutchy, This would go to her older brother lord Ei'Imhea. So king Imhea'e devised a plan: He knew that Ei'Imhea was incredibly reclusive and eccentric, and not overly gifted in ruling, preferring to be alone than be in the company of the court. So king Imhea'e gave Ei'Imheae an altimatum: leave and marry a foreign princess, giving up your inheritance of Eseae and letting your sister lady Uwi have it, or I will use your eccentric nature as evidence of your incompetance and innability to rule due to your mental state, using that as an excuse to have you imprisoned here. <br>
 Sufficed to say, lord Ei'Imhea understood the threat and agreed to marry the foreign lady Umhe'imwi eldest daughter of Ibm'Umhe dutchess of Ium and gain dual control of her realm, giving up his inheritance of Eseae to his sister, lady Uwi. <i>*Note: Dutchess Ibm'Umhe gave her eldest daughter lady Umhe'imwi in marrige to Lord Ei'Imhea according to their tradition, which is to marry off the oldest daugter first.</i></p>
@@ -144,7 +146,7 @@ Those were the rulers of the world and the rulers who came after them.
 
 <hr>
 
-### This is the end of EO Genesis 1. Stay tuned for EO Genesis 2!
+### This is the end of EO Genesis Cycle one. Stay tuned for EO Genesis Cycle two!
 
 <hr>
 
