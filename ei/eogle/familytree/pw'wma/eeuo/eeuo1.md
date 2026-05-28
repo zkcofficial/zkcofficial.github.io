@@ -16,4 +16,15 @@ Lore: He was the first king of the kingdom of Ea after fleeing from the home kin
 <br>
 
 Children:<br>
-<a href=""></a><br>
+<a href="eeuo'e1.html">Eeuo'e</a><br>
+<a href="we'eeuo1.html">We'Eeuo</a><br>
+<a href="pe'eeuo1.html">Pe'Eeuo</a><br>
+
+
+
+
+
+
+
+
+
