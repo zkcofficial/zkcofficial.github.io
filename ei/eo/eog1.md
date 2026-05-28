@@ -1,7 +1,7 @@
-# Ethnographic Odessey: Genesis Cycle one
+# Ethnographic Odyssy: Genesis Cycle one
 <hr>
 
-### This game is called EO: Genesis Cycle one because this is the first book in the story of Ethnographic Odessey, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
+### This game is called EO: Genesis Cycle one because this is the first book in the story of Ethnographic Odyssy, a game which follows the affairs of the world, who rules over it, and what the cultures and languages of these people adhere to.
 
 
 <hr>
