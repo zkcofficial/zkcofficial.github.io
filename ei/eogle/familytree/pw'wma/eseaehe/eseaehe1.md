@@ -16,6 +16,6 @@ Lore: He was the first king of the kingdom of Eae after fleeing from the home ki
 <br>
 
 Children:<br>
-<a href=""></a><br>
-<a href=""></a><br>
+<a href="imhea1.html">Imhea</a><br>
+<a href="seae1.html">Seae</a><br>
 
