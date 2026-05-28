@@ -123,12 +123,12 @@ we describe a type of cyber attack as a Trojan horse. That kind of lore is what 
 <li><a href="familytree/seae/seae1.html">Seae</a></li>
 <li><a href="familytree/um/um1.html">Um</a></li>
 <li><a href="familytree/we/we1.html">We</a></li>
-<li><a href="#">Ee</a></li>
-<li><a href="#">Wum</a></li>
-<li><a href="#">Oae-Imhea</a></li>
-<li><a href="#">Eeuo</a></li>
-<li><a href="#">Eae-Eseaehe</a></li>
-<li><a href="#">Ba-Seae</a></li>
+<li><a href="familytree/pw'wma/ee/ee1.html">Ee</a></li>
+<li><a href="familytree/pw'wma/wum/wum1.html">Wum</a></li>
+<li><a href="familytree/pw'wma/imhea/imhea1.html">Oae-Imhea</a></li>
+<li><a href="familytree/pw'wma/eeuo/eeuo1.html">Eeuo</a></li>
+<li><a href="familytree/pw'wma/eseaehe/eseaehe1.html">Eae-Eseaehe</a></li>
+<li><a href="">Ba-Seae</a></li>
   
 </ul>
 
