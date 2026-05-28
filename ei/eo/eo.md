@@ -1,4 +1,4 @@
-# Ethnographic Oddessy: General
+# Ethnographic Odyssy: General
 
 <style>
 
@@ -6,7 +6,7 @@
 
 <hr>
 
-This is where I post my various Ethnographic Oddessy stories
+This is where I post my various Ethnographic Odyssy stories
 <hr>
 <ul>
   
