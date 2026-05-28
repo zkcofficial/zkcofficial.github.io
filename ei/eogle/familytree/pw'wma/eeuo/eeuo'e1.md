@@ -1,17 +1,17 @@
 # FamilyTree
 
-### Prince Eeuo'e
+### King Eeuo'e
 
 <i>Image not available</I> 
 <br>
-His name Eeuo'e means 'Eeuo the second' as he is the first born son of king Eeuo od Ea.
+(Em'w'omwa Eeuo'e'Ea is his title, meaning King Eeuo'e of Ea in the Seae tradition. The overwhelming tradition among the Pw'wma is to depict thier familial crest and title as opposed to portrait)<br>
+His name Eeuo'e means 'Eeuo the second' because he is named after his father, king Eeuo of Ea
 
 <hr>
 
 <br>
 
-Lore: He was the first son of king Eeuo and next in line for the throne of Ea
-
+Lore: He was the second king of the kingdom of Ea, taking the throne after his father king Eeuo's passing.
 <br>
 
 Children:<br>
